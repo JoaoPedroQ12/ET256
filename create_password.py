@@ -4,7 +4,7 @@ import stdiomask
 import sys
 from Crypto.Protocol.KDF import PBKDF2 as KDF2
 from time import sleep
-from encrypt_data import encrypt_data
+from encrypt_data import encrypt_data # oque diaxo e um encrypt_data não achei esta bliblioteca.
 from pyfiglet import Figlet
 
 
